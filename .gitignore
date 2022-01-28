@@ -1,0 +1,7 @@
+# Node Js Packages
+node_modules
+package-lock.json
+
+# Miscellaneous
+build
+.env
